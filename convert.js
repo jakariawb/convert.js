@@ -44,3 +44,7 @@ const numbers = [12,44,56,78,98,66,43,53,21]
 
 var avg = oddAverage(numbers)
 console.log(avg)
+
+
+
+console.log("jakaria")
